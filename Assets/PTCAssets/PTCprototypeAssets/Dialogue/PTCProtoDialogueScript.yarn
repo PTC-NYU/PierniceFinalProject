@@ -1,0 +1,15 @@
+﻿title: Start
+---
+<<portrait PortraitHandler Ebenholz neutral>>
+Ebenholz: Hey this is a test 
+<<portrait PortraitHandler Kreide neutral>>
+Kreide: Woah what a test
+<<portrait PortraitHandler Ebenholz neutral>>
+Ebenholz: Yup certainly a test
+<<portrait PortraitHandler Kreide happy>>
+Kreide: I love testing things wowza
+<<portrait PortraitHandler Ebenholz happy>>
+Ebenholz: Me too bro me too
+===
+
+

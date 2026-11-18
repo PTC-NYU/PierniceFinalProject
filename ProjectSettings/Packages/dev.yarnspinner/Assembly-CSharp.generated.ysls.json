@@ -1,0 +1,11 @@
+{
+"version":3,
+"commands":[
+{"yarnName":"expression","definitionName":"global::VNCharacterPortrait.SetExpression","fileName":"PierniceFinalProject\\Assets\\PTCAssets\\PTCprototypeAssets\\Scripts\\VNCharacterPortrait.cs","language":"csharp","async":false,"containsErrors":false,"location":{"start":{"line":91,"character":16},"end":{"line":91,"character":29}},"parameters":[{"name":"target","type":"instance","subtype":"VNCharacterPortrait","isParamsArray":false},{"name":"expression","isParamsArray":false,"type":"string"}]},
+{"yarnName":"portrait","definitionName":"global::VNPortraitLineHandler.ChangePortrait","fileName":"PierniceFinalProject\\Assets\\PTCAssets\\PTCprototypeAssets\\Scripts\\VNPortraitLineHandler.cs","language":"csharp","async":false,"containsErrors":false,"location":{"start":{"line":10,"character":16},"end":{"line":10,"character":30}},"parameters":[{"name":"target","type":"instance","subtype":"VNPortraitLineHandler","isParamsArray":false},{"name":"speakerName","isParamsArray":false,"type":"string"},{"name":"expression","isParamsArray":false,"type":"string"}]},
+{"yarnName":"speak","definitionName":"global::VNCharacterPortrait.Speak","fileName":"PierniceFinalProject\\Assets\\PTCAssets\\PTCprototypeAssets\\Scripts\\VNCharacterPortrait.cs","language":"csharp","async":false,"containsErrors":false,"location":{"start":{"line":74,"character":16},"end":{"line":74,"character":21}},"parameters":[{"name":"target","type":"instance","subtype":"VNCharacterPortrait","isParamsArray":false},{"name":"expression","defaultValue":"","isParamsArray":false,"type":"string"}]}
+],
+"functions":[
+
+]
+}
